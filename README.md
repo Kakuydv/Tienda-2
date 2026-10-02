@@ -1,13 +1,5 @@
 # TecnoNova
 
-## Cómo levantarlo
-
-```bash
-npm install
-npm run dev
-```
-
-Abrir `http://localhost:5173` en el navegador.
 
 ## Vistas
 
